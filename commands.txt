@@ -1,0 +1,11 @@
+npm install -g typescript --- to install the typescript
+
+tsc -v ---- to chech the version
+
+node js-in-typescript.ts --- to run typescript
+
+tsc js-in-typescript.ts ------ to run as js
+
+tsc --init ......to make tsc config file
+
+tsc -watch ....watch the changes
